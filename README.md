@@ -1,2 +1,3 @@
 # Caesar-Cipher
-COF Caesar Cipher Decoder
+Decodes and Encodes Messages with the Caesar Cipher.
+(Could be updated to show most likely solution with decryption)
